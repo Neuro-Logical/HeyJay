@@ -1,5 +1,5 @@
-![HeyJayLogo](https://github.com/user-attachments/assets/3f4f1a6b-a984-4eb0-a030-6dca604d0874)
 
+![HeyJayLogo](https://github.com/user-attachments/assets/85ac2e0e-456a-4e24-824b-7b4c97eddbe6)
 
 
 # HeyJay!, a corpus of atypical speech with transcriptions and intent annotations.
