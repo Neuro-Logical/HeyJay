@@ -1,5 +1,5 @@
 
-<img width="253" alt="image" src="https://github.com/user-attachments/assets/03d5d245-cc9e-4c2f-9449-00296a21d109" />
+![HeyJayLogo](https://github.com/user-attachments/assets/2a5f635b-3407-4e86-8d48-db662ed931b3)
 
 # HeyJay!, a corpus of atypical speech with transcriptions and intent annotations.
 
